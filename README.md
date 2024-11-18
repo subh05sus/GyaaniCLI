@@ -98,19 +98,19 @@ With its AI-powered core, `gyaani` continuously learns and improves, adapting to
 ## Screenshots
 
 1. **Landing Screen**  
-   ![Landing Screen](Slide1.PNG)  
+   ![Landing Screen](gyaani/Slide1.PNG)  
 
 2. **Command Execution**  
-   ![Working Demo](Slide2.PNG)  
+   ![Working Demo](gyaani/Slide2.PNG)  
 
 3. **Explaining a Concept**  
-   ![Explaining Demo](Slide3.PNG)  
+   ![Explaining Demo](gyaani/Slide3.PNG)  
 
 4. **Fetching GitHub Data**  
-   ![Getting Github Data](Slide4.PNG)  
+   ![Getting Github Data](gyaani/Slide4.PNG)  
 
 5. **System Information Output**  
-   ![Getting System Data](Slide5.PNG)  
+   ![Getting System Data](gyaani/Slide5.PNG)  
 
 ---
 
